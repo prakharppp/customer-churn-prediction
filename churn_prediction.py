@@ -9,7 +9,7 @@ from sklearn.tree import DecisionTreeClassifier
 from sklearn.metrics import accuracy_score, confusion_matrix, classification_report
 
 
-# load dataset
+# load dataset or make sure dataset is in same folder or update path
 df = pd.read_csv("WA_Fn-UseC_-Telco-Customer-Churn.csv")
 print(df.head())
 print(df.info())
