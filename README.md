@@ -37,7 +37,10 @@ Customer churn is an important problem in industries like telecom and SaaS. In t
 
 ## Dataset
 
-Telco Customer Churn Dataset (public dataset)
+The dataset used in this project is the Telco Customer Churn dataset, which is publicly available.
+
+You can download it from Kaggle:
+https://www.kaggle.com/datasets/blastchar/telco-customer-churn
 
 ## Notes
 
