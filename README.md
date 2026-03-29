@@ -41,6 +41,7 @@ The dataset used in this project is the Telco Customer Churn dataset, which is p
 
 You can download it from Kaggle:
 https://www.kaggle.com/datasets/blastchar/telco-customer-churn
+Dataset is not included in this repository due to size; please download using the link above.
 
 ## Notes
 
